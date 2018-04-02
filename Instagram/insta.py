@@ -3,16 +3,16 @@ import json
 import codecs
 import functools
 
-import api
+from Instagram import api
 try:
-    from instagram_private_api import (
+    from Instagram.instagram_private_api import (
         Client, ClientError, ClientLoginError,
         ClientCookieExpiredError, ClientLoginRequiredError,
         __version__ as client_version)
 except ImportError:
     import sys
     sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-    from instagram_private_api import (
+    from Instagram.instagram_private_api import (
         Client, ClientError, ClientLoginError,
         ClientCookieExpiredError, ClientLoginRequiredError,
         __version__ as client_version)
@@ -121,6 +121,7 @@ class InstagramClient():
                 photo['url'] = post['image_versions2']['candidates'][0]['url']
             except KeyError:
                 continue
+
             try:
                 photo['likes'] = post['like_count']
             except KeyError:
@@ -178,11 +179,15 @@ class InstagramClient():
 
     def likes_comments(self, username):
         feeds = self.main.username_feed(username)['items']
-        likes = map(lambda x: x['like_count'], feeds)
-        comments = map(lambda x: x['comment_count'], feeds)
+        if len(feeds) > 0:
+            likes = map(lambda x: x.get('like_count', 0), feeds)
+            comments = map(lambda x: x.get('comment_count', 0), feeds)
 
-        avg_likes = functools.reduce(lambda x, y: x + y, likes) / len(feeds)
-        avg_comments = functools.reduce(lambda x, y: x + y, comments) / len(feeds)
+            avg_likes = int(functools.reduce(lambda x, y: x + y, likes) / len(feeds))
+            avg_comments = int(functools.reduce(lambda x, y: x + y, comments) / len(feeds))
+        else:
+            avg_comments = 0
+            avg_likes = 0
 
         return avg_likes, avg_comments
 
