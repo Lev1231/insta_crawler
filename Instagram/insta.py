@@ -3,7 +3,8 @@ import json
 import codecs
 import functools
 
-from Instagram import api
+from Instagram import api, utility
+
 try:
     from Instagram.instagram_private_api import (
         Client, ClientError, ClientLoginError,
@@ -195,16 +196,20 @@ class InstagramClient():
         profile = self.main.username_info(username)
         user = profile['user']
         username = username
-        full_name = user.get('full_name', '')
-        bio = user.get("biography", '')
+        full_name = utility.strip_emoji(user.get('full_name', ''))
+        bio = utility.strip_emoji(user.get("biography", ''))
 
         follower_count = user.get('follower_count')
 
         avg_likes, avg_comments = self.likes_comments(username)
         engagement = round((avg_likes + avg_comments)/follower_count,2) * 100
 
-        language_spoken = api.languageDetection(bio)
-        gender = api.genderDetectionByName(full_name.encode('utf-8'))
+        if bio:
+            language_spoken = api.languageDetection(bio)
+        else:
+            language_spoken = api.languageDetection(full_name)
+
+        gender = api.genderDetectionByName(full_name)
         location = ''
 
         return [username, language_spoken, gender, location, follower_count, avg_likes, avg_comments, engagement]

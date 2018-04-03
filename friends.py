@@ -5,6 +5,7 @@ import random
 import pickle
 import socket
 import urllib
+import argparse
 
 import pandas as pd
 
@@ -56,8 +57,19 @@ def main():
 
             try:
                 info = insta_client.info(following)
+                if not langs:
+                    if info[4] > int(followerNumbers):
+                        friend_logger.info("Added: " + str(info))
+                        addRowCsv(output_csv, info)
+                    else:
+                        friend_logger.info("Ignored: " + str(info))
+                else:
+                    if info[4] > int(followerNumbers) and set(langs).intersection([item.split(":")[0] for item in info[1].split(",")]):
+                        friend_logger.info("Added: " + str(info))
+                        addRowCsv(output_csv, info)
+                    else:
+                        friend_logger.info("Ignored: " + str(info))
 
-                addRowCsv(output_csv, info)
                 updateIndex(index1, index2)
 
                 time.sleep(random.randint(5,10))
@@ -86,7 +98,6 @@ def main():
         index2 = 0
         index1 += 1
 
-
 if __name__ == "__main__":
     user_csv = os.path.join(os.path.dirname(__file__), 'db', 'japan_username.csv')
     insta_client = InstagramClient(username, password, settings_file_path)
@@ -102,9 +113,19 @@ if __name__ == "__main__":
 
         createCsv(output_csv, header)
 
+    parser = argparse.ArgumentParser(description="Instagram Crawler")
+    parser.add_argument('--langs', help='Spoken language ex: ja/kr/vn', default=langs )
+    parser.add_argument('--follwerNumbers', help='The script find the people who has folleres more than this value. ex: 4000', default=followerNumbers)
+
+    args = parser.parse_args()
+    if langs:
+        langs = args.langs.split("/")
+    followerNumbers = args.follwerNumbers
+
     main()
 
-    # print (insta_client.main.username_info('sirjohnofficial')['user']['full_name'])
-    # print ()
+    # print (insta_client.main.username_info('kiyochamcham'))
+    # print (insta_client.info('kiyochamcham'))
+
 
 
