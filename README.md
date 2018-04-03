@@ -7,6 +7,6 @@ It gets info of the friends of the influencers.
     - Install dependencies; pip install -r requirements.txt
     
 ### Running the script. 
-    python3 --langs [langs] --followingNumbers [following numbers] friends.py
-    ex: python3 --langs ja/kr/vn --followingNumbers 4000 friends.py
+    python3 friends.py --langs [langs] --followingNumbers [following numbers]
+    ex: python3 friends.py --langs ja/kr/vn --followingNumbers 4000
     
