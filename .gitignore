@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 doc.txt
 config_dev.py
+settings

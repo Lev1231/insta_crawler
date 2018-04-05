@@ -46,3 +46,379 @@
 [INFO|friends.py:56] 2018-04-03 22:33:50,214 > Following_459 : shiromoecru
 [INFO|friends.py:71] 2018-04-03 22:34:00,685 > Ignored: ['shiromoecru', 'da:100.0%', 'male', '', 3074, 251, 7, 8.0]
 [INFO|friends.py:56] 2018-04-03 22:34:09,696 > Following_460 : pepe39
+[INFO|friends.py:46] 2018-04-05 00:17:22,381 > USERNAME: kurebayashiii
+[INFO|friends.py:51] 2018-04-05 00:17:26,481 > Count of the Followings: 96
+[INFO|friends.py:56] 2018-04-05 00:17:26,482 > Following_0 : daiki_0000
+[INFO|friends.py:71] 2018-04-05 00:17:39,346 > Ignored: ['daiki_0000', 'ja:100.0%', 'male', '', 242, 122, 6, 53.0]
+[INFO|friends.py:56] 2018-04-05 00:17:44,359 > Following_1 : ig_aijirotanaka
+[INFO|friends.py:71] 2018-04-05 00:17:55,911 > Ignored: ['ig_aijirotanaka', 'en:100.0%', 'male', '', 15190, 713, 10, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:18:00,931 > Following_2 : mico2014
+[INFO|friends.py:46] 2018-04-05 00:18:25,066 > USERNAME: kurebayashiii
+[INFO|friends.py:51] 2018-04-05 00:18:28,958 > Count of the Followings: 96
+[INFO|friends.py:56] 2018-04-05 00:18:28,959 > Following_2 : mico2014
+[INFO|friends.py:68] 2018-04-05 00:18:39,647 > Added: ['mico2014', 'ja:88.33%, en:11.67%', 'male', '', 14540, 439, 11, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:18:47,690 > Following_3 : miyavi_ishihara
+[INFO|friends.py:71] 2018-04-05 00:18:58,764 > Ignored: ['miyavi_ishihara', 'en:100.0%', 'male', '', 339032, 7766, 44, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:19:08,775 > Following_4 : ie__s
+[INFO|friends.py:71] 2018-04-05 00:19:19,481 > Ignored: ['ie__s', 'da:100.0%', 'unknown', '', 197, 23, 0, 12.0]
+[INFO|friends.py:56] 2018-04-05 00:19:27,493 > Following_5 : junnakayama
+[INFO|friends.py:71] 2018-04-05 00:19:39,101 > Ignored: ['junnakayama', 'en:100.0%', 'male', '', 2665, 62, 2, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:19:46,115 > Following_6 : horikoshi_nori
+[INFO|friends.py:71] 2018-04-05 00:19:56,289 > Ignored: ['horikoshi_nori', 'en:100.0%', 'male', '', 203, 20, 0, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:20:04,302 > Following_7 : hinata20170303
+[INFO|friends.py:71] 2018-04-05 00:20:15,575 > Ignored: ['hinata20170303', 'ja:100.0%', 'unknown', '', 322, 85, 7, 28.999999999999996]
+[INFO|friends.py:56] 2018-04-05 00:20:25,586 > Following_8 : lucykongcomposer
+[INFO|friends.py:71] 2018-04-05 00:20:37,228 > Ignored: ['lucykongcomposer', 'en:100.0%', 'male', '', 128, 53, 2, 43.0]
+[INFO|friends.py:56] 2018-04-05 00:20:46,237 > Following_9 : darayunya
+[INFO|friends.py:68] 2018-04-05 00:20:58,060 > Added: ['darayunya', 'ja:83.21%, da:16.79%', 'female', '', 42076, 1214, 14, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:21:05,084 > Following_10 : shimizumash
+[INFO|friends.py:68] 2018-04-05 00:21:16,294 > Added: ['shimizumash', 'ja:100.0%', 'male', '', 6601, 473, 4, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:21:25,317 > Following_11 : bbysenpai
+[INFO|friends.py:71] 2018-04-05 00:21:36,897 > Ignored: ['bbysenpai', 'eu:100.0%', 'unknown', '', 53691, 4194, 42, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:21:42,909 > Following_12 : sheidlina
+[INFO|friends.py:71] 2018-04-05 00:21:52,694 > Ignored: ['sheidlina', 'gd:100.0%', 'female', '', 3859079, 482699, 2529, 13.0]
+[INFO|friends.py:56] 2018-04-05 00:21:57,707 > Following_13 : hartleylove
+[INFO|friends.py:71] 2018-04-05 00:22:08,344 > Ignored: ['hartleylove', 'en:39.69%, xx-Qaai:60.31%', 'male', '', 23000, 1043, 18, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:22:18,350 > Following_14 : glassmachina
+[INFO|friends.py:71] 2018-04-05 00:22:29,170 > Ignored: ['glassmachina', 'en:100.0%', 'female', '', 1186, 87, 4, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:22:37,182 > Following_15 : vedettamarie
+[INFO|friends.py:71] 2018-04-05 00:22:48,165 > Ignored: ['vedettamarie', 'en:100.0%', 'male', '', 1729, 141, 2, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:22:57,181 > Following_16 : feebz_
+[INFO|friends.py:71] 2018-04-05 00:23:07,988 > Ignored: ['feebz_', 'da:15.67%, ja:84.33%', 'female', '', 1127, 110, 6, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:23:17,995 > Following_17 : hiro_hairmake
+[INFO|friends.py:71] 2018-04-05 00:23:30,254 > Ignored: ['hiro_hairmake', 'da:100.0%', 'female', '', 269, 91, 4, 35.0]
+[INFO|friends.py:56] 2018-04-05 00:23:38,266 > Following_18 : delishbeads
+[INFO|friends.py:71] 2018-04-05 00:23:50,050 > Ignored: ['delishbeads', 'en:100.0%', 'female', '', 6346, 367, 13, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:23:59,065 > Following_19 : tranthica
+[INFO|friends.py:71] 2018-04-05 00:24:09,157 > Ignored: ['tranthica', 'en:100.0%', 'unknown', '', 1836, 166, 4, 9.0]
+[INFO|friends.py:56] 2018-04-05 00:24:18,165 > Following_20 : choom.online
+[INFO|friends.py:68] 2018-04-05 00:24:29,129 > Added: ['choom.online', 'ja:100.0%', 'male', '', 9299, 668, 10, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:24:37,152 > Following_21 : ebizoichikawa.ebizoichikawa
+[INFO|friends.py:71] 2018-04-05 00:24:50,144 > Ignored: ['ebizoichikawa.ebizoichikawa', 'en:100.0%', 'male', '', 1255284, 60517, 213, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:24:59,157 > Following_22 : lianstagram0703
+[INFO|friends.py:71] 2018-04-05 00:25:11,981 > Ignored: ['lianstagram0703', 'en:100.0%', 'male', '', 2390, 228, 1, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:25:16,994 > Following_23 : patty_kiteru
+[INFO|friends.py:71] 2018-04-05 00:25:28,985 > Ignored: ['patty_kiteru', 'ja:100.0%', 'male', '', 1443, 204, 1, 14.000000000000002]
+[INFO|friends.py:56] 2018-04-05 00:25:38,995 > Following_24 : cherichu_kayo
+[INFO|friends.py:71] 2018-04-05 00:25:51,289 > Ignored: ['cherichu_kayo', 'en:100.0%', 'male', '', 1072, 145, 1, 14.000000000000002]
+[INFO|friends.py:56] 2018-04-05 00:26:00,302 > Following_25 : acornmilk._.sweets
+[INFO|friends.py:68] 2018-04-05 00:26:11,976 > Added: ['acornmilk._.sweets', 'ja:81.28%, en:18.72%', 'female', '', 54377, 2072, 8, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:26:20,000 > Following_26 : 100soft
+[INFO|friends.py:71] 2018-04-05 00:26:30,747 > Ignored: ['100soft', 'en:100.0%', 'male', '', 78949, 1826, 17, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:26:36,759 > Following_27 : pero.pippi
+[INFO|friends.py:71] 2018-04-05 00:26:47,649 > Ignored: ['pero.pippi', 'es:100.0%', 'unknown', '', 4132, 390, 13, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:26:53,659 > Following_28 : yurikotiger
+[INFO|friends.py:71] 2018-04-05 00:27:05,184 > Ignored: ['yurikotiger', 'en:100.0%', 'male', '', 57751, 4000, 37, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:27:14,192 > Following_29 : kano_sisters007
+[INFO|friends.py:71] 2018-04-05 00:27:25,235 > Ignored: ['kano_sisters007', 'en:100.0%', 'female', '', 420555, 21123, 104, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:27:31,248 > Following_30 : lisa_frank
+[INFO|friends.py:71] 2018-04-05 00:27:41,369 > Ignored: ['lisa_frank', 'en:100.0%', 'male', '', 179403, 4044, 84, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:27:47,381 > Following_31 : 1000wave
+[INFO|friends.py:68] 2018-04-05 00:27:58,733 > Added: ['1000wave', 'ja:100.0%', 'female', '', 39636, 780, 10, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:28:03,800 > Following_32 : shiiiooochan
+[INFO|friends.py:71] 2018-04-05 00:28:15,024 > Ignored: ['shiiiooochan', 'ja:100.0%', 'male', '', 3579, 387, 12, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:28:22,037 > Following_33 : bonjour_licca
+[INFO|friends.py:68] 2018-04-05 00:28:32,446 > Added: ['bonjour_licca', 'ja:100.0%', 'male', '', 80737, 2414, 6, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:28:42,471 > Following_34 : byjaejae
+[INFO|friends.py:71] 2018-04-05 00:28:52,507 > Ignored: ['byjaejae', 'ko:100.0%', 'male', '', 50156, 664, 6, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:28:58,519 > Following_35 : yohko_ycsweets
+[INFO|friends.py:68] 2018-04-05 00:29:09,531 > Added: ['yohko_ycsweets', 'ja:88.28%, da:11.72%', 'unknown', '', 32629, 513, 6, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:29:16,549 > Following_36 : akilala.eddy13
+[ERROR|friends.py:86] 2018-04-05 00:29:20,804 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:29:20,804 > Following_37 : cchhiiaakkii9
+[INFO|friends.py:68] 2018-04-05 00:29:32,131 > Added: ['cchhiiaakkii9', 'ja:100.0%', 'female', '', 16383, 1208, 5, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:29:40,159 > Following_38 : uri_hanazono
+[INFO|friends.py:68] 2018-04-05 00:29:51,664 > Added: ['uri_hanazono', 'da:100.0%', 'female', '', 5878, 320, 3, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:30:00,681 > Following_39 : pipnpop
+[INFO|friends.py:71] 2018-04-05 00:30:11,296 > Ignored: ['pipnpop', 'en:100.0%', 'male', '', 54076, 3963, 43, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:30:20,308 > Following_40 : coucousuzette
+[INFO|friends.py:71] 2018-04-05 00:30:31,260 > Ignored: ['coucousuzette', 'en:100.0%', 'unknown', '', 92718, 2347, 35, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:30:37,273 > Following_41 : irregularchoice
+[INFO|friends.py:71] 2018-04-05 00:30:47,519 > Ignored: ['irregularchoice', 'en:100.0%', 'male', '', 188251, 1428, 8, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:30:55,533 > Following_42 : _mitake_
+[INFO|friends.py:71] 2018-04-05 00:31:06,999 > Ignored: ['_mitake_', 'en:100.0%', 'unknown', '', 16846, 1060, 5, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:31:15,005 > Following_43 : taka_used
+[INFO|friends.py:71] 2018-04-05 00:31:26,681 > Ignored: ['taka_used', 'ja:85.25%, en:14.75%', 'male', '', 366, 36, 1, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:31:35,693 > Following_44 : ayu_141223
+[INFO|friends.py:68] 2018-04-05 00:31:46,960 > Added: ['ayu_141223', 'ja:100.0%', 'female', '', 43335, 1885, 14, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:31:51,972 > Following_45 : okayusan20150421
+[INFO|friends.py:71] 2018-04-05 00:32:02,974 > Ignored: ['okayusan20150421', 'en:100.0%', 'male', '', 49175, 4140, 86, 9.0]
+[INFO|friends.py:56] 2018-04-05 00:32:12,988 > Following_46 : fairy_cakes_
+[INFO|friends.py:71] 2018-04-05 00:32:24,724 > Ignored: ['fairy_cakes_', 'en:100.0%', 'female', '', 70086, 930, 22, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:32:31,738 > Following_47 : niku_nontas
+[INFO|friends.py:71] 2018-04-05 00:32:42,704 > Ignored: ['niku_nontas', 'ja:100.0%', 'male', '', 1175, 126, 5, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:32:49,715 > Following_48 : nazeyr
+[INFO|friends.py:71] 2018-04-05 00:33:01,415 > Ignored: ['nazeyr', 'en:100.0%', 'male', '', 27239, 1380, 33, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:33:11,427 > Following_49 : _pinclub
+[INFO|friends.py:71] 2018-04-05 00:33:22,075 > Ignored: ['_pinclub', 'en:100.0%', 'male', '', 39254, 469, 11, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:33:32,083 > Following_50 : thequickstyle
+[INFO|friends.py:71] 2018-04-05 00:33:43,076 > Ignored: ['thequickstyle', 'en:100.0%', 'male', '', 87714, 3066, 33, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:33:49,087 > Following_51 : thestrawhatz
+[INFO|friends.py:71] 2018-04-05 00:33:59,799 > Ignored: ['thestrawhatz', 'en:100.0%', 'unknown', '', 12233, 858, 41, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:34:08,811 > Following_52 : sulemanquick
+[INFO|friends.py:71] 2018-04-05 00:34:19,403 > Ignored: ['sulemanquick', 'mi:100.0%', 'male', '', 28056, 924, 14, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:34:25,418 > Following_53 : jeanetteconverse
+[INFO|friends.py:71] 2018-04-05 00:34:36,585 > Ignored: ['jeanetteconverse', 'en:100.0%', 'male', '', 13904, 468, 10, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:34:44,598 > Following_54 : dimadrjuchin
+[INFO|friends.py:71] 2018-04-05 00:34:55,745 > Ignored: ['dimadrjuchin', 'en:100.0%', 'male', '', 10344, 196, 5, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:35:05,756 > Following_55 : mariko4shimizu
+[ERROR|friends.py:86] 2018-04-05 00:35:09,606 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:35:09,606 > Following_56 : luniechan
+[INFO|friends.py:71] 2018-04-05 00:35:20,306 > Ignored: ['luniechan', 'en:100.0%', 'male', '', 28928, 1179, 10, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:35:30,320 > Following_57 : haqeeu
+[INFO|friends.py:71] 2018-04-05 00:35:41,182 > Ignored: ['haqeeu', 'jw:100.0%', 'male', '', 21972, 1301, 6, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:35:49,194 > Following_58 : lauraanunnaki
+[INFO|friends.py:71] 2018-04-05 00:35:59,940 > Ignored: ['lauraanunnaki', 'en:100.0%', 'unknown', '', 304657, 10287, 120, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:36:08,953 > Following_59 : mako6969
+[INFO|friends.py:71] 2018-04-05 00:36:19,849 > Ignored: ['mako6969', 'da:12.5%, ja:87.5%', 'male', '', 3467, 118, 2, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:36:26,860 > Following_60 : mido_x_roya
+[INFO|friends.py:71] 2018-04-05 00:36:38,471 > Ignored: ['mido_x_roya', 'ja:74.24%, en:25.76%', 'male', '', 1727, 110, 1, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:36:47,485 > Following_61 : ruikodou
+[INFO|friends.py:71] 2018-04-05 00:36:59,740 > Ignored: ['ruikodou', 'ja:100.0%', 'male', '', 903, 96, 2, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:37:04,751 > Following_62 : a.chanovo
+[INFO|friends.py:68] 2018-04-05 00:37:16,252 > Added: ['a.chanovo', 'ja:52.49%, en:27.22%, xx-Qaai:20.3%', 'female', '', 13982, 253, 7, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:37:26,269 > Following_63 : ai_okada_
+[INFO|friends.py:68] 2018-04-05 00:37:37,229 > Added: ['ai_okada_', 'ja:100.0%', 'male', '', 35436, 1237, 5, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:37:44,251 > Following_64 : sophie_dayo
+[INFO|friends.py:71] 2018-04-05 00:37:55,087 > Ignored: ['sophie_dayo', 'en:22.53%, ja:77.47%', 'unknown', '', 679, 85, 1, 13.0]
+[INFO|friends.py:56] 2018-04-05 00:38:04,097 > Following_65 : harun_pop
+[INFO|friends.py:71] 2018-04-05 00:38:15,381 > Ignored: ['harun_pop', 'en:100.0%', 'unknown', '', 2211, 222, 11, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:38:24,391 > Following_66 : technotropism
+[INFO|friends.py:71] 2018-04-05 00:38:35,054 > Ignored: ['technotropism', 'en:100.0%', 'male', '', 5516, 432, 8, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:38:41,066 > Following_67 : vysanthe
+[INFO|friends.py:71] 2018-04-05 00:38:52,254 > Ignored: ['vysanthe', 'en:100.0%', 'unknown', '', 4829, 452, 12, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:38:57,266 > Following_68 : ryojiimaizumi
+[INFO|friends.py:71] 2018-04-05 00:39:07,804 > Ignored: ['ryojiimaizumi', 'en:100.0%', 'male', '', 179718, 5943, 145, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:39:17,815 > Following_69 : sanaekumazawa
+[INFO|friends.py:71] 2018-04-05 00:39:29,331 > Ignored: ['sanaekumazawa', 'da:100.0%', 'female', '', 326, 64, 4, 21.0]
+[INFO|friends.py:56] 2018-04-05 00:39:36,344 > Following_70 : mizuho_goto
+[INFO|friends.py:68] 2018-04-05 00:39:47,072 > Added: ['mizuho_goto', 'ja:86.42%, en:13.58%', 'male', '', 12803, 527, 2, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:39:53,103 > Following_71 : miladeblois
+[INFO|friends.py:71] 2018-04-05 00:40:04,309 > Ignored: ['miladeblois', 'en:100.0%', 'female', '', 7247, 546, 14, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:40:14,320 > Following_72 : kungkunitar
+[INFO|friends.py:71] 2018-04-05 00:40:25,711 > Ignored: ['kungkunitar', 'en:100.0%', 'female', '', 37249, 242, 1, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:40:33,722 > Following_73 : we_can_do_anything
+[INFO|friends.py:71] 2018-04-05 00:40:47,657 > Ignored: ['we_can_do_anything', 'en:100.0%', 'female', '', 25079, 1435, 20, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:40:52,673 > Following_74 : inesarjoun
+[INFO|friends.py:71] 2018-04-05 00:41:07,327 > Ignored: ['inesarjoun', 'en:100.0%', 'female', '', 4035, 174, 22, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:41:17,333 > Following_75 : yoshidabi_zu
+[INFO|friends.py:68] 2018-04-05 00:41:29,308 > Added: ['yoshidabi_zu', 'ja:71.71%, en:17.0%, da:11.28%', 'female', '', 4132, 171, 1, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:41:35,330 > Following_76 : yu_uka217
+[ERROR|friends.py:86] 2018-04-05 00:41:40,501 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:41:40,502 > Following_77 : manonmarguerite
+[INFO|friends.py:71] 2018-04-05 00:41:51,997 > Ignored: ['manonmarguerite', 'en:100.0%', 'male', '', 19085, 872, 54, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:41:57,002 > Following_78 : starcastleprincess
+[ERROR|friends.py:86] 2018-04-05 00:42:01,063 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:42:01,063 > Following_79 : magical_ulala
+[INFO|friends.py:71] 2018-04-05 00:42:12,736 > Ignored: ['magical_ulala', 'en:100.0%', 'male', '', 24346, 1092, 30, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:42:18,747 > Following_80 : fruitsmag
+[INFO|friends.py:71] 2018-04-05 00:42:29,360 > Ignored: ['fruitsmag', 'en:100.0%', 'male', '', 99065, 1365, 2, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:42:38,368 > Following_81 : awatapro
+[INFO|friends.py:71] 2018-04-05 00:42:49,430 > Ignored: ['awatapro', 'ja:100.0%', 'female', '', 378, 31, 0, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:42:59,440 > Following_82 : tokyofashion
+[INFO|friends.py:71] 2018-04-05 00:43:10,699 > Ignored: ['tokyofashion', 'en:100.0%', 'female', '', 610930, 10315, 39, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:43:15,709 > Following_83 : maki73_
+[ERROR|friends.py:86] 2018-04-05 00:43:19,572 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:43:19,572 > Following_84 : si_oux
+[INFO|friends.py:68] 2018-04-05 00:43:31,209 > Added: ['si_oux', 'ja:78.94%, en:21.06%', 'male', '', 30691, 722, 7, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:43:36,249 > Following_85 : kenjanie1977
+[INFO|friends.py:71] 2018-04-05 00:43:48,459 > Ignored: ['kenjanie1977', 'ja:79.35%, en:20.65%', 'male', '', 1984, 107, 2, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:43:54,478 > Following_86 : kozziiiii
+[INFO|friends.py:71] 2018-04-05 00:44:06,939 > Ignored: ['kozziiiii', 'hr:100.0%', 'male', '', 1317, 148, 0, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:44:11,951 > Following_87 : noelnoel69
+[INFO|friends.py:71] 2018-04-05 00:44:22,203 > Ignored: ['noelnoel69', 'en:100.0%', 'unknown', '', 803, 25, 0, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:44:27,207 > Following_88 : harajukuanna
+[INFO|friends.py:71] 2018-04-05 00:44:39,370 > Ignored: ['harajukuanna', 'da:100.0%', 'unknown', '', 345, 33, 0, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:44:48,382 > Following_89 : kurarasystem
+[INFO|friends.py:68] 2018-04-05 00:44:59,924 > Added: ['kurarasystem', 'ja:100.0%', 'unknown', '', 21665, 167, 0, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:45:04,947 > Following_90 : sin_per
+[ERROR|friends.py:86] 2018-04-05 00:45:08,959 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:45:08,960 > Following_91 : kumamiki
+[INFO|friends.py:68] 2018-04-05 00:45:20,200 > Added: ['kumamiki', 'ja:100.0%', 'unknown', '', 127649, 5045, 21, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:45:28,223 > Following_92 : etsukokko58
+[INFO|friends.py:71] 2018-04-05 00:45:40,420 > Ignored: ['etsukokko58', 'xh:100.0%', 'male', '', 74, 5, 0, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 00:45:47,432 > Following_93 : japanesestreets
+[INFO|friends.py:71] 2018-04-05 00:45:58,131 > Ignored: ['japanesestreets', 'en:100.0%', 'unknown', '', 7868, 113, 0, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:46:06,149 > Following_94 : art_d_ashiken
+[INFO|friends.py:71] 2018-04-05 00:46:18,085 > Ignored: ['art_d_ashiken', 'ja:100.0%', 'unknown', '', 428, 18, 0, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:46:23,098 > Following_95 : kymberley_peta
+[ERROR|friends.py:86] 2018-04-05 00:46:27,219 > Bad Request: Not authorized to view user
+[INFO|friends.py:46] 2018-04-05 00:46:27,220 > USERNAME: ieishida
+[INFO|friends.py:51] 2018-04-05 00:46:31,553 > Count of the Followings: 32
+[INFO|friends.py:56] 2018-04-05 00:46:31,553 > Following_0 : hyokkorihan
+[INFO|friends.py:68] 2018-04-05 00:46:42,550 > Added: ['hyokkorihan', 'ja:100.0%', 'unknown', '', 56589, 6737, 32, 12.0]
+[INFO|friends.py:56] 2018-04-05 00:46:52,573 > Following_1 : stefania_model
+[INFO|friends.py:71] 2018-04-05 00:47:03,440 > Ignored: ['stefania_model', 'en:100.0%', 'male', '', 596293, 34234, 407, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:47:12,453 > Following_2 : tomo_fitness
+[INFO|friends.py:68] 2018-04-05 00:47:24,738 > Added: ['tomo_fitness', 'ja:100.0%', 'male', '', 47527, 1430, 9, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:47:31,759 > Following_3 : lializiko
+[INFO|friends.py:68] 2018-04-05 00:47:43,059 > Added: ['lializiko', 'ja:100.0%', 'male', '', 139731, 16229, 173, 12.0]
+[INFO|friends.py:56] 2018-04-05 00:47:49,081 > Following_4 : kudokankuro_anng
+[INFO|friends.py:68] 2018-04-05 00:47:59,938 > Added: ['kudokankuro_anng', 'ja:100.0%', 'male', '', 11234, 1475, 28, 13.0]
+[INFO|friends.py:56] 2018-04-05 00:48:07,970 > Following_5 : doctorx_official
+[INFO|friends.py:68] 2018-04-05 00:48:18,807 > Added: ['doctorx_official', 'ja:72.53%, xx-Qaai:27.47%', 'male', '', 48446, 13318, 168, 28.000000000000004]
+[INFO|friends.py:56] 2018-04-05 00:48:27,829 > Following_6 : kiripapa1230
+[INFO|friends.py:71] 2018-04-05 00:48:40,039 > Ignored: ['kiripapa1230', 'ja:100.0%', 'male', '', 3252, 453, 14, 14.000000000000002]
+[INFO|friends.py:56] 2018-04-05 00:48:46,050 > Following_7 : nozomi_takada03
+[INFO|friends.py:71] 2018-04-05 00:48:57,481 > Ignored: ['nozomi_takada03', 'ja:100.0%', 'female', '', 1685, 154, 20, 10.0]
+[INFO|friends.py:56] 2018-04-05 00:49:06,493 > Following_8 : hashimoto_kanna
+[INFO|friends.py:68] 2018-04-05 00:49:17,441 > Added: ['hashimoto_kanna', 'ja:100.0%', 'male', '', 144518, 11867, 106, 8.0]
+[INFO|friends.py:56] 2018-04-05 00:49:24,445 > Following_9 : tsuyoshi_nagabuchi
+[INFO|friends.py:68] 2018-04-05 00:49:35,513 > Added: ['tsuyoshi_nagabuchi', 'ja:100.0%', 'male', '', 16097, 2378, 40, 15.0]
+[INFO|friends.py:56] 2018-04-05 00:49:43,518 > Following_10 : miki_sanada
+[INFO|friends.py:71] 2018-04-05 00:49:54,567 > Ignored: ['miki_sanada', 'ja:100.0%', 'male', '', 2673, 147, 5, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:50:00,578 > Following_11 : makopy1208
+[INFO|friends.py:71] 2018-04-05 00:50:11,207 > Ignored: ['makopy1208', 'ja:100.0%', 'male', '', 122, 53, 4, 47.0]
+[INFO|friends.py:56] 2018-04-05 00:50:16,219 > Following_12 : carne_gram
+[INFO|friends.py:71] 2018-04-05 00:50:27,738 > Ignored: ['carne_gram', 'ja:100.0%', 'male', '', 487, 74, 1, 15.0]
+[INFO|friends.py:56] 2018-04-05 00:50:36,748 > Following_13 : shipopopcorn
+[INFO|friends.py:71] 2018-04-05 00:50:49,073 > Ignored: ['shipopopcorn', 'da:100.0%', 'male', '', 350, 75, 2, 22.0]
+[INFO|friends.py:56] 2018-04-05 00:50:54,084 > Following_14 : nwankwo04
+[INFO|friends.py:71] 2018-04-05 00:51:04,761 > Ignored: ['nwankwo04', 'ja:100.0%', 'male', '', 15, 8, 3, 73.0]
+[INFO|friends.py:56] 2018-04-05 00:51:13,772 > Following_15 : pdk_4232
+[ERROR|friends.py:86] 2018-04-05 00:51:17,928 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:51:17,929 > Following_16 : sekiden69
+[INFO|friends.py:71] 2018-04-05 00:51:30,661 > Ignored: ['sekiden69', 'ja:100.0%', 'male', '', 37, 6, 0, 16.0]
+[INFO|friends.py:56] 2018-04-05 00:51:38,674 > Following_17 : celeinaann
+[INFO|friends.py:68] 2018-04-05 00:51:49,691 > Added: ['celeinaann', 'ja:100.0%', 'female', '', 39598, 1566, 16, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:51:55,713 > Following_18 : gudetama3333
+[ERROR|friends.py:86] 2018-04-05 00:51:59,470 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:51:59,470 > Following_19 : kyarypappa
+[INFO|friends.py:68] 2018-04-05 00:52:09,491 > Added: ['kyarypappa', 'ja:100.0%', 'female', '', 1165563, 54633, 358, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:52:14,513 > Following_20 : gg3yade
+[INFO|friends.py:71] 2018-04-05 00:52:26,215 > Ignored: ['gg3yade', 'ja:100.0%', 'male', '', 479, 85, 12, 20.0]
+[INFO|friends.py:56] 2018-04-05 00:52:34,228 > Following_21 : omap2
+[INFO|friends.py:71] 2018-04-05 00:52:45,865 > Ignored: ['omap2', 'da:100.0%', 'male', '', 347, 30, 0, 9.0]
+[INFO|friends.py:56] 2018-04-05 00:52:53,876 > Following_22 : fujiko007
+[ERROR|friends.py:86] 2018-04-05 00:52:58,335 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:52:58,336 > Following_23 : yunko4466
+[INFO|friends.py:71] 2018-04-05 00:53:08,941 > Ignored: ['yunko4466', 'rw:100.0%', 'female', '', 28, 7, 0, 25.0]
+[INFO|friends.py:56] 2018-04-05 00:53:13,952 > Following_24 : navi_kunn
+[INFO|friends.py:71] 2018-04-05 00:53:24,006 > Ignored: ['navi_kunn', 'ja:100.0%', 'male', '', 8, 0, 0, 0.0]
+[INFO|friends.py:56] 2018-04-05 00:53:30,018 > Following_25 : kyarypamyurin
+[INFO|friends.py:68] 2018-04-05 00:53:40,855 > Added: ['kyarypamyurin', 'ja:100.0%', 'female', '', 17722, 1822, 85, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:53:45,876 > Following_26 : a_chanmarui
+[ERROR|friends.py:86] 2018-04-05 00:53:49,896 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:53:49,896 > Following_27 : toriimiyukitorii
+[INFO|friends.py:68] 2018-04-05 00:54:00,154 > Added: ['toriimiyukitorii', 'ja:100.0%', 'female', '', 106137, 1807, 8, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:54:10,176 > Following_28 : arichan_tc
+[INFO|friends.py:71] 2018-04-05 00:54:21,411 > Ignored: ['arichan_tc', 'en:100.0%', 'male', '', 2423, 147, 0, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:54:28,425 > Following_29 : 026yuka
+[INFO|friends.py:71] 2018-04-05 00:54:41,091 > Ignored: ['026yuka', '', 'female', '', 330, 95, 18, 34.0]
+[INFO|friends.py:56] 2018-04-05 00:54:46,103 > Following_30 : mana.with.u
+[ERROR|friends.py:86] 2018-04-05 00:54:50,192 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 00:54:50,192 > Following_31 : yamanks45
+[ERROR|friends.py:86] 2018-04-05 00:54:54,100 > Bad Request: Not authorized to view user
+[INFO|friends.py:46] 2018-04-05 00:54:54,100 > USERNAME: rila_fukushima
+[INFO|friends.py:51] 2018-04-05 00:54:58,981 > Count of the Followings: 641
+[INFO|friends.py:56] 2018-04-05 00:54:58,981 > Following_0 : michaelvontrae
+[INFO|friends.py:71] 2018-04-05 00:55:10,211 > Ignored: ['michaelvontrae', 'en:100.0%', 'male', '', 1081, 65, 4, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:55:19,223 > Following_1 : cinetvtimes
+[INFO|friends.py:71] 2018-04-05 00:55:31,194 > Ignored: ['cinetvtimes', 'en:100.0%', 'unknown', '', 256606, 11695, 122, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:55:37,201 > Following_2 : kalikennedy
+[INFO|friends.py:71] 2018-04-05 00:55:47,475 > Ignored: ['kalikennedy', 'en:100.0%', 'female', '', 17134, 478, 19, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:55:57,488 > Following_3 : pluiehair
+[INFO|friends.py:71] 2018-04-05 00:56:08,251 > Ignored: ['pluiehair', 'en:8.06%, ja:68.53%, da:23.4%', 'male', '', 97593, 853, 0, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:56:13,262 > Following_4 : jamesihaofficial
+[INFO|friends.py:71] 2018-04-05 00:56:24,196 > Ignored: ['jamesihaofficial', 'en:100.0%', 'female', '', 48464, 2826, 66, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:56:33,207 > Following_5 : bustedhair
+[INFO|friends.py:71] 2018-04-05 00:56:44,280 > Ignored: ['bustedhair', 'en:100.0%', 'male', '', 4214, 117, 0, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:56:49,298 > Following_6 : reishito
+[INFO|friends.py:68] 2018-04-05 00:57:04,200 > Added: ['reishito', 'ja:76.47%, en:23.53%', 'male', '', 48360, 576, 3, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:57:09,225 > Following_7 : ellenvonunwerthvon
+[INFO|friends.py:71] 2018-04-05 00:57:26,166 > Ignored: ['ellenvonunwerthvon', 'en:100.0%', 'female', '', 1829, 200, 4, 11.0]
+[INFO|friends.py:56] 2018-04-05 00:57:31,177 > Following_8 : arizona_muse
+[INFO|friends.py:71] 2018-04-05 00:57:43,098 > Ignored: ['arizona_muse', 'en:100.0%', 'male', '', 190812, 1479, 24, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:57:52,110 > Following_9 : desmondisamazing
+[INFO|friends.py:71] 2018-04-05 00:58:03,924 > Ignored: ['desmondisamazing', 'en:100.0%', 'male', '', 39395, 2398, 50, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:58:12,937 > Following_10 : marikonakayama
+[INFO|friends.py:71] 2018-04-05 00:58:22,797 > Ignored: ['marikonakayama', 'en:100.0%', 'female', '', 15062, 347, 1, 2.0]
+[INFO|friends.py:56] 2018-04-05 00:58:29,809 > Following_11 : teslamotors
+[INFO|friends.py:71] 2018-04-05 00:58:40,539 > Ignored: ['teslamotors', 'en:100.0%', 'male', '', 4200983, 209524, 2775, 5.0]
+[INFO|friends.py:56] 2018-04-05 00:58:46,551 > Following_12 : redcarpetgreendress
+[INFO|friends.py:71] 2018-04-05 00:58:56,656 > Ignored: ['redcarpetgreendress', 'en:100.0%', 'male', '', 18458, 175, 5, 1.0]
+[INFO|friends.py:56] 2018-04-05 00:59:04,667 > Following_13 : megumi_asai_
+[INFO|friends.py:71] 2018-04-05 00:59:15,640 > Ignored: ['megumi_asai_', 'sv:100.0%', 'female', '', 1687, 89, 4, 6.0]
+[INFO|friends.py:56] 2018-04-05 00:59:20,651 > Following_14 : rowanblanchard
+[INFO|friends.py:71] 2018-04-05 00:59:31,254 > Ignored: ['rowanblanchard', 'en:100.0%', 'male', '', 5296423, 164309, 834, 3.0]
+[INFO|friends.py:56] 2018-04-05 00:59:39,266 > Following_15 : yoncelive
+[INFO|friends.py:71] 2018-04-05 00:59:49,605 > Ignored: ['yoncelive', 'en:100.0%', 'female', '', 446299, 19686, 190, 4.0]
+[INFO|friends.py:56] 2018-04-05 00:59:54,615 > Following_16 : iamaishafrancis
+[INFO|friends.py:71] 2018-04-05 01:00:05,710 > Ignored: ['iamaishafrancis', 'en:100.0%', 'female', '', 156285, 4764, 100, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:00:12,718 > Following_17 : jennypackham
+[INFO|friends.py:71] 2018-04-05 01:00:22,702 > Ignored: ['jennypackham', 'en:100.0%', 'female', '', 290582, 1916, 12, 1.0]
+[INFO|friends.py:56] 2018-04-05 01:00:28,715 > Following_18 : geoffbarrenger
+[INFO|friends.py:71] 2018-04-05 01:00:39,499 > Ignored: ['geoffbarrenger', 'en:100.0%', 'male', '', 2514, 163, 8, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 01:00:47,512 > Following_19 : ena1123
+[INFO|friends.py:68] 2018-04-05 01:00:58,092 > Added: ['ena1123', 'da:100.0%', 'male', '', 512616, 2550, 2, 0.0]
+[INFO|friends.py:56] 2018-04-05 01:01:04,113 > Following_20 : karenlevittstylist
+[INFO|friends.py:71] 2018-04-05 01:01:16,633 > Ignored: ['karenlevittstylist', 'id:100.0%', 'female', '', 1207, 110, 7, 10.0]
+[INFO|friends.py:56] 2018-04-05 01:01:26,645 > Following_21 : craigramsayfit
+[INFO|friends.py:71] 2018-04-05 01:01:38,435 > Ignored: ['craigramsayfit', 'en:100.0%', 'male', '', 43457, 809, 26, 2.0]
+[INFO|friends.py:56] 2018-04-05 01:01:43,453 > Following_22 : brandonliberati
+[INFO|friends.py:71] 2018-04-05 01:01:53,807 > Ignored: ['brandonliberati', 'en:100.0%', 'unknown', '', 113544, 2838, 45, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:02:03,819 > Following_23 : fuchibebebe
+[INFO|friends.py:71] 2018-04-05 01:02:14,037 > Ignored: ['fuchibebebe', 'da:100.0%', 'female', '', 280, 20, 0, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 01:02:22,047 > Following_24 : idsdanceshoes
+[INFO|friends.py:71] 2018-04-05 01:02:32,321 > Ignored: ['idsdanceshoes', 'en:100.0%', 'male', '', 16335, 454, 3, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:02:37,333 > Following_25 : fujii.karen____official
+[INFO|friends.py:71] 2018-04-05 01:02:48,464 > Ignored: ['fujii.karen____official', 'en:100.0%', 'male', '', 292702, 51851, 707, 18.0]
+[INFO|friends.py:56] 2018-04-05 01:02:56,477 > Following_26 : katrinwiens
+[INFO|friends.py:71] 2018-04-05 01:03:06,921 > Ignored: ['katrinwiens', 'en:100.0%', 'unknown', '', 321, 31, 2, 10.0]
+[INFO|friends.py:56] 2018-04-05 01:03:13,934 > Following_27 : olyazueva_official
+[INFO|friends.py:71] 2018-04-05 01:03:24,273 > Ignored: ['olyazueva_official', 'en:100.0%', 'male', '', 21604, 2541, 50, 12.0]
+[INFO|friends.py:56] 2018-04-05 01:03:29,280 > Following_28 : nmoriyama
+[ERROR|friends.py:86] 2018-04-05 01:03:33,345 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 01:03:33,346 > Following_29 : rgrazorramon
+[INFO|friends.py:68] 2018-04-05 01:03:43,896 > Added: ['rgrazorramon', 'da:100.0%', 'male', '', 105380, 3211, 10, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:03:51,918 > Following_30 : lecoledesfemmes
+[INFO|friends.py:71] 2018-04-05 01:04:03,240 > Ignored: ['lecoledesfemmes', 'en:100.0%', 'female', '', 109620, 1426, 35, 1.0]
+[INFO|friends.py:56] 2018-04-05 01:04:11,253 > Following_31 : h_hosono
+[INFO|friends.py:71] 2018-04-05 01:04:21,933 > Ignored: ['h_hosono', 'ja:100.0%', 'male', '', 30, 30, 1, 103.0]
+[INFO|friends.py:56] 2018-04-05 01:04:28,947 > Following_32 : charlottekempmuhl
+[INFO|friends.py:71] 2018-04-05 01:04:39,598 > Ignored: ['charlottekempmuhl', 'en:100.0%', 'female', '', 22903, 1596, 25, 7.000000000000001]
+[INFO|friends.py:56] 2018-04-05 01:04:47,610 > Following_33 : natgeo
+[INFO|friends.py:71] 2018-04-05 01:04:57,784 > Ignored: ['natgeo', 'en:100.0%', 'male', '', 87077498, 298646, 2102, 0.0]
+[INFO|friends.py:56] 2018-04-05 01:05:06,795 > Following_34 : maggiechatter
+[INFO|friends.py:71] 2018-04-05 01:05:17,808 > Ignored: ['maggiechatter', '', 'male', '', 5778, 170, 7, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:05:24,822 > Following_35 : hunterjo
+[INFO|friends.py:71] 2018-04-05 01:05:35,801 > Ignored: ['hunterjo', 'en:100.0%', 'male', '', 3176, 300, 12, 10.0]
+[INFO|friends.py:56] 2018-04-05 01:05:40,814 > Following_36 : wearespin
+[INFO|friends.py:71] 2018-04-05 01:05:51,916 > Ignored: ['wearespin', 'en:100.0%', 'male', '', 21184, 215, 7, 1.0]
+[INFO|friends.py:56] 2018-04-05 01:05:59,927 > Following_37 : pingpongfranck
+[INFO|friends.py:71] 2018-04-05 01:06:11,765 > Ignored: ['pingpongfranck', 'en:100.0%', 'male', '', 1829, 78, 5, 5.0]
+[INFO|friends.py:56] 2018-04-05 01:06:18,777 > Following_38 : londonballerina
+[INFO|friends.py:71] 2018-04-05 01:06:29,320 > Ignored: ['londonballerina', 'en:100.0%', 'male', '', 66435, 3313, 37, 5.0]
+[INFO|friends.py:56] 2018-04-05 01:06:34,328 > Following_39 : deakatarina
+[INFO|friends.py:71] 2018-04-05 01:06:46,683 > Ignored: ['deakatarina', 'en:100.0%', 'female', '', 561, 97, 5, 18.0]
+[INFO|friends.py:56] 2018-04-05 01:06:53,694 > Following_40 : jirokonami
+[INFO|friends.py:71] 2018-04-05 01:07:04,913 > Ignored: ['jirokonami', 'en:100.0%', 'male', '', 38831, 2081, 4, 5.0]
+[INFO|friends.py:56] 2018-04-05 01:07:10,924 > Following_41 : kristingallegos
+[INFO|friends.py:71] 2018-04-05 01:07:21,985 > Ignored: ['kristingallegos', 'en:100.0%', 'unknown', '', 37560, 1209, 31, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:07:28,995 > Following_42 : tamarabarkley
+[INFO|friends.py:71] 2018-04-05 01:07:40,504 > Ignored: ['tamarabarkley', 'en:100.0%', 'male', '', 4044, 153, 10, 4.0]
+[INFO|friends.py:56] 2018-04-05 01:07:45,515 > Following_43 : sunsetstrippa
+[ERROR|friends.py:86] 2018-04-05 01:07:49,266 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 01:07:49,267 > Following_44 : jacqui.savageau
+[INFO|friends.py:71] 2018-04-05 01:08:00,471 > Ignored: ['jacqui.savageau', 'en:100.0%', 'female', '', 394, 43, 2, 11.0]
+[INFO|friends.py:56] 2018-04-05 01:08:09,482 > Following_45 : fededeangelis
+[ERROR|friends.py:86] 2018-04-05 01:08:14,148 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 01:08:14,149 > Following_46 : experimentalfilmsociety
+[INFO|friends.py:71] 2018-04-05 01:08:25,770 > Ignored: ['experimentalfilmsociety', 'en:100.0%', 'male', '', 22812, 420, 2, 2.0]
+[INFO|friends.py:56] 2018-04-05 01:08:30,785 > Following_47 : gackt
+[INFO|friends.py:68] 2018-04-05 01:08:41,317 > Added: ['gackt', 'ja:76.48%, en:23.52%', 'male', '', 532133, 19836, 518, 4.0]
+[INFO|friends.py:56] 2018-04-05 01:08:49,340 > Following_48 : alemonade29
+[ERROR|friends.py:86] 2018-04-05 01:08:53,239 > Bad Request: Not authorized to view user
+[INFO|friends.py:56] 2018-04-05 01:08:53,239 > Following_49 : therealgracecoddington
+[INFO|friends.py:71] 2018-04-05 01:09:04,325 > Ignored: ['therealgracecoddington', '', 'unknown', '', 480960, 13491, 174, 3.0]
+[INFO|friends.py:56] 2018-04-05 01:09:09,336 > Following_50 : liyakebede
+[INFO|friends.py:71] 2018-04-05 01:09:20,270 > Ignored: ['liyakebede', 'ig:100.0%', 'male', '', 172817, 3606, 37, 2.0]
+[INFO|friends.py:56] 2018-04-05 01:09:25,282 > Following_51 : simonrex415
+[INFO|friends.py:71] 2018-04-05 01:09:35,284 > Ignored: ['simonrex415', 'en:100.0%', 'unknown', '', 324025, 3587, 185, 1.0]
+[INFO|friends.py:56] 2018-04-05 01:09:41,297 > Following_52 : yokoonoofficial
+[INFO|friends.py:71] 2018-04-05 01:09:52,440 > Ignored: ['yokoonoofficial', 'en:100.0%', 'male', '', 397312, 32360, 1145, 8.0]
+[INFO|friends.py:56] 2018-04-05 01:10:00,453 > Following_53 : tribecasl
+[INFO|friends.py:71] 2018-04-05 01:10:11,180 > Ignored: ['tribecasl', 'en:100.0%', 'male', '', 7215, 36, 0, 0.0]
+[INFO|friends.py:56] 2018-04-05 01:10:16,192 > Following_54 : yoko1970
+[INFO|friends.py:71] 2018-04-05 01:10:27,387 > Ignored: ['yoko1970', 'en:100.0%', 'unknown', '', 39225, 1960, 7, 5.0]
+[INFO|friends.py:56] 2018-04-05 01:10:36,398 > Following_55 : moon.minded.medicine

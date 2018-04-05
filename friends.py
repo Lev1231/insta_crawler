@@ -14,18 +14,18 @@ from Instagram.utility import *
 from Instagram.logger import friend_logger
 from Instagram.insta import InstagramClient
 from Instagram.insta import ClientLoginError, ClientError
-
+from db import xmlFeed_crawler
 
 def updateIndex(index1,index2):
     with open("index.pkl", 'wb') as f:
-        pickle.dump({'index1': index1, 'index2': index2}, f)
+        pickle.dump({feedUrl: [index1, index2]}, f)
 
 def start_points():
     if os.path.exists('index.pkl'):
         with open("index.pkl", 'rb') as f:
             dict = pickle.load(f)
 
-        return dict['index1'], dict['index2']+1
+        return dict[feedUrl][0], dict[feedUrl][1]+1
 
     else:
         return 0, 0
@@ -33,10 +33,10 @@ def start_points():
 def main():
     global insta_client
 
-    df = pd.read_csv(user_csv)
-    df = df[df.status==0]
-
-    usernames = list(df.username)
+    # df = pd.read_csv(user_csv)
+    # df = df[df.status==0]
+    # usernames = list(df.username)
+    usernames = xmlFeed_crawler.main(feedUrl)
 
     index1, index2 = start_points()
 
@@ -99,7 +99,7 @@ def main():
         index1 += 1
 
 if __name__ == "__main__":
-    user_csv = os.path.join(os.path.dirname(__file__), 'db', 'japan_username.csv')
+    # user_csv = os.path.join(os.path.dirname(__file__), 'db', 'japan_username.csv')
     insta_client = InstagramClient(username, password, settings_file_path)
 
     output_csv = os.path.join(os.path.dirname(__file__), 'output', 'friends.csv')
@@ -114,10 +114,12 @@ if __name__ == "__main__":
         createCsv(output_csv, header)
 
     parser = argparse.ArgumentParser(description="Instagram Crawler")
+    parser.add_argument('--feedUrl', help='It export usernames', default=feedUrl)
     parser.add_argument('--langs', help='Spoken language ex: ja/kr/vn', default=langs )
     parser.add_argument('--follwerNumbers', help='The script find the people who has folleres more than this value. ex: 4000', default=followerNumbers)
 
     args = parser.parse_args()
+    feedUrl = args.feedUrl
     if langs:
         langs = args.langs.split("/")
     followerNumbers = args.follwerNumbers
